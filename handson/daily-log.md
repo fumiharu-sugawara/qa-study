@@ -1,6 +1,7 @@
 # ログ
 
-| 日付 | やったこと | 詰まったこと | できるようになったこと |
-|------|-----------|-------------|-------------|
-| 2026-06-08 | playwright-cli の各コマンドでブラウザ操作。claude の agent に指示→agent が playwright-cli の skill を使ってブラウザ操作 | コマンド入力時に "playwright-cli"を入力し忘れる  | skillsの理解。playwright-cli コマンド経由でブラウザ操作ができるようになった |
-| 2026-06-15 |playwright-cliのおさらいとgitコマンドについて  |claudeコードのセキュリティ周り  |gitコマンド/playwright-cliの理解が深まった  |
+| 日付 | やったこと | 詰まったこと | できるようになったこと |名前 |
+|------|-----------|-------------|-------------|-------------|
+| 2026-06-08 | playwright-cli の各コマンドでブラウザ操作。claude の agent に指示→agent が playwright-cli の skill を使ってブラウザ操作 | | コマンド入力時に "playwright-cli"を入力し忘れる  | skillsの理解。playwright-cli コマンド経由でブラウザ操作ができるようになった | |
+| 2026-06-15 |playwright-cliのおさらいとgitコマンドについて  |claudeコードのセキュリティ周り  |gitコマンド/playwright-cliの理解が深まった  | |
+| 2026-06-15 |gitコマンドおさらい  |コマンド忘れている  |gitコマンド使ってみた  |田村 |
